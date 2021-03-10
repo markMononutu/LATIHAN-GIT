@@ -6,4 +6,3 @@ console.log("baris kedua");
 
 //Jumat
 console.log("baris ketiga");
-console.log("baris keempat dari online");
