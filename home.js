@@ -8,3 +8,5 @@ console.log("baris kedua");
 console.log("baris ketiga");
 console.log("coba saja");
 console.log("conflict");
+
+console.log("Baris delapan");
